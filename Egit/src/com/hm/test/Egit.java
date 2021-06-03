@@ -20,5 +20,6 @@ package com.hm.test;
 public class Egit {
     public static void main(String[] args) {
         // egit
+        System.out.println("Hello Git!");
     }
 }
